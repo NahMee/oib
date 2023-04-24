@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaabjpvyhtua7pq3y6qyxgdjokznb6347ksbwz5tqriq2ldvntmuoxq
+fingerprint=46:68:de:55:29:f7:2a:08:95:ae:01:dc:e0:96:9d:a4
+tenancy=ocid1.tenancy.oc1..aaaaaaaa6njfkxkjt4cxveved5spgq55tywzqvht5xcgidow2op6niqg7lfa
+region=us-sanjose-1
+key_file=oci_private_key
